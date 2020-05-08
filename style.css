@@ -1,0 +1,61 @@
+.bg-blue{
+    background-color : blue;
+}
+
+.icon{
+    margin-right: 3%;
+}
+
+.hoverbtn:hover{
+    background-color: blue;
+    text-decoration: white !important;
+}
+
+h1#first-h1{
+    color: #0275d8;
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h1#second-h1{
+    color: #1c7430;
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h1.underline{
+    display: inline;
+    color: #1c7430;
+    font-weight: bolder;
+}
+
+h2.num{
+    font-size: 42px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.prgrm_name{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+
+}
+
+p.monthly{
+    font-size: 15px;
+    font-weight: 600;
+    color: #00ff00;
+    display: inline;
+}
+
+.para{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-weight: 600;
+}
+
